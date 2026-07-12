@@ -20,4 +20,6 @@ streamlit
 tqdm
 requests
 sentence-transformers
+torch
+torchvision
 ragas
